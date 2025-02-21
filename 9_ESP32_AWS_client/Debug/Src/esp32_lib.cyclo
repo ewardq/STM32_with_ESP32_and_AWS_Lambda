@@ -1,0 +1,5 @@
+..\Src\esp32_lib.c:9:13:esp32_startup_test	2
+..\Src\esp32_lib.c:24:13:esp32_reset	2
+..\Src\esp32_lib.c:42:13:esp32_sta_mode	2
+..\Src\esp32_lib.c:57:13:esp32_ap_connect	2
+..\Src\esp32_lib.c:79:6:esp32_init	1
