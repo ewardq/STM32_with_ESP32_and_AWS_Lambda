@@ -1,0 +1,2 @@
+..\Src\esp32_client.c:26:6:aws_client_post	6
+..\Src\esp32_client.c:72:6:aws_client_get_file	6

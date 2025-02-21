@@ -1,0 +1,7 @@
+C:\Users\Katja\Documents\EmbeddedC\My_workspace\Embed_AWS_RESTful_APIs\chip_headers\CMSIS\Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+..\Src\uart.c:28:5:__io_putchar	1
+..\Src\uart.c:33:6:debug_uart_init	1
+..\Src\uart.c:87:6:slave_dev_uart_init	1
+..\Src\uart.c:134:13:uart_write	2
+..\Src\uart.c:142:17:compute_uart_bd	1
+..\Src\uart.c:146:13:uart_set_baudrate	1
