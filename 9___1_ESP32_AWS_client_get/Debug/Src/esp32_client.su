@@ -1,0 +1,3 @@
+..\Src\esp32_client.c:25:6:aws_client_get	664	static
+..\Src\esp32_client.c:75:6:aws_client_post	680	static
+..\Src\esp32_client.c:121:6:aws_client_get_file	664	static
