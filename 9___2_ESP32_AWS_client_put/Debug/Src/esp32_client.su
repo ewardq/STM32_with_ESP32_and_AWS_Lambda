@@ -1,0 +1,6 @@
+..\Src\esp32_client.c:25:6:aws_client_delete	1272	static
+..\Src\esp32_client.c:85:6:aws_client_put	680	static
+..\Src\esp32_client.c:137:6:aws_client_get	664	static
+..\Src\esp32_client.c:187:6:aws_client_get_json	680	static
+..\Src\esp32_client.c:240:6:aws_client_post	680	static
+..\Src\esp32_client.c:292:6:aws_client_get_file	664	static
