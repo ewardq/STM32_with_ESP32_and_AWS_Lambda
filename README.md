@@ -21,3 +21,10 @@ The complete library is in the 9_ESP32_AWS_client folder, the other folders incl
 - HTTP GET request to retrieve data from DynamoDB.
 - HTTP PUT request to AWS Lambda.
 - HTTP DELETE request to remove data from DynamoDB.
+
+---
+## AWS App side
+To implement the Lambda functions included in the ```Lambda code``` folder, make an AWS API Gateway simmilar to the following example:
+
+
+![image](https://github.com/user-attachments/assets/58a64ff8-09f8-40f8-afdf-60bbfbd1baa5)
