@@ -2,13 +2,13 @@
 
 ![IoT_with_RESTful](https://github.com/user-attachments/assets/a1c34c7b-0677-4fec-adbd-b4e79e4bde2c)
 
-In this IoT system, the AWS Lambda functions serve as the main processor of incoming data from IoT devices, such as temperature or humidity readings. An API Gateway Lambda function can be triggered when a device sends an HTTP POST request with sensor data. The function can:
+In this embedded IoT system, the AWS Lambda functions serve as the main processor of data incoming from IoT devices, such as temperature or humidity readings. An API Gateway Lambda function gets triggered when a device sends an HTTP POST request with sensor data. The system:
 
-• Parse the JSON payload from the request.
+• Parses the JSON payload from the request sent by the IoT device.
 
-• Extract the sensor data (e.g., temperature, humidity, timestamp).
+• Extracts sensor data (e.g., temperature, humidity, timestamp).
 
-• Store the data in DynamoDB for long-term storage and analysis.
+• Stores the data in DynamoDB for long-term storage and analysis.
 
 ## How to use this project
 The STM32<->ESP32 part of this project is better developed in this repositroy: https://github.com/ewardq/STM32_Drivers
