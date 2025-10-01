@@ -11,7 +11,7 @@ In this embedded IoT system, the AWS Lambda functions serve as the main processo
 • Stores the data in DynamoDB for long-term storage and analysis.
 
 ## How to use this project
-The STM32<->ESP32 part of this project is better developed in this repositroy: https://github.com/ewardq/STM32_Drivers
+The STM32<->ESP32 part of this project is better developed in this repo: https://github.com/ewardq/STM32_Drivers
 
 This repository uses the previously mentioned drivers to send HTTP Request to AWS Lambda.
 
